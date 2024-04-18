@@ -1,0 +1,2 @@
+More info on the tck format (consists of a text header followed by a binary format for the vertices): 
+https://mrtrix.readthedocs.io/en/latest/getting_started/image_data.html?highlight=tck#tracks-file-format-tck
